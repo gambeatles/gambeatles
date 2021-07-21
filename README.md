@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @gambeatles
+Estoy estudiando informatica aplicada
+- 👀 I’m interested in ...
+Me gustan las cosas relacionadas con proyectos de electronica y robotica
+- 🌱 I’m currently learning ...
+A programar en C.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+gambeatles/gambeatles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
